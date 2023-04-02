@@ -1,0 +1,11 @@
+Model Information:
+* title:	DAE - Village - Bank
+* source:	https://sketchfab.com/3d-models/dae-village-bank-b18a9946f1fe4dccbe2cc65f8808eced
+* author:	Kidney_02 (https://sketchfab.com/Kidney02)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DAE - Village - Bank" (https://sketchfab.com/3d-models/dae-village-bank-b18a9946f1fe4dccbe2cc65f8808eced) by Kidney_02 (https://sketchfab.com/Kidney02) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
